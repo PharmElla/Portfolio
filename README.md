@@ -10,7 +10,7 @@ Looking out for internships and entry-level analyst/compliance roles.
 
 ---
 
-## Here are some of projects:
+## Here are some of my projects:
 
 ### 1. *[Conducting a Security Audit](https://github.com/PharmElla/SecurityAudit/tree/main)*
 

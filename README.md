@@ -16,6 +16,8 @@ Looking out for internships and entry-level analyst/compliance roles.
 
 ### 2. *[Analyze Network Attack](https://github.com/PharmElla/AnalyzeNetworkAttack )*
 
+### 3. *[Apply OS Hardening Techniques](https://github.com/PharmElla/OS_Hardening_BruteForceAttack)*
+
 ---
 
 #### Connect with me 

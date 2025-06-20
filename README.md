@@ -14,11 +14,15 @@ Looking out for internships and entry-level analyst/compliance roles.
 
 ### 1. *[Conducting a Security Audit](https://github.com/PharmElla/SecurityAudit/tree/main)*
 
-### 2. *[Analyze Network Attack](https://github.com/PharmElla/AnalyzeNetworkAttack )*
+### 2. *[NIST CSF](https://github.com/PharmElla/NIST_CSF)*
 
-### 3. *[Apply OS Hardening Techniques](https://github.com/PharmElla/OS_Hardening_BruteForceAttack)*
+### 3. *[Vulnerability Assessment](https://github.com/PharmElla/VulnerabilityAssessment/)*
 
-### 4. *[Network Hardening Techniques](https://github.com/PharmElla/NetworkHardening)*
+### 4. *[Analyze Network Attack](https://github.com/PharmElla/AnalyzeNetworkAttack )*
+
+### 5. *[Apply OS Hardening Techniques](https://github.com/PharmElla/OS_Hardening_BruteForceAttack)*
+
+### 6. *[Network Hardening Techniques](https://github.com/PharmElla/NetworkHardening)*
 
 ---
 
